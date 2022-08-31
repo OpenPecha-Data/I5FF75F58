@@ -1,0 +1,94 @@
+id: cf4d09c834f64337ab1ee39602cfa0e9
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  74ce617526e04a57a7b45d12e4fcf991:
+    span:
+      start: 0
+      end: 695
+    imgnum: 1
+    reference: I1KG240530001.tif
+  dfc00cc862594a5aba93141b3fcaeb80:
+    span:
+      start: 696
+      end: 918
+    imgnum: 3
+    reference: I1KG240530003.jpg
+  8702df2430ff4d25b3ba470f43b15685:
+    span:
+      start: 919
+      end: 1010
+    imgnum: 5
+    reference: I1KG240530005.jpg
+  e90531d81a824e60ae5361e1d72d9adc:
+    span:
+      start: 1011
+      end: 1323
+    imgnum: 7
+    reference: I1KG240530007.jpg
+  4120a41de32149e885eaf5a63266be0e:
+    span:
+      start: 1324
+      end: 1654
+    imgnum: 8
+    reference: I1KG240530008.jpg
+  72d07094633f4167a8f69f40323c46e7:
+    span:
+      start: 1655
+      end: 1987
+    imgnum: 9
+    reference: I1KG240530009.jpg
+  53926b7e047a42c0b9c43a1e595fbca6:
+    span:
+      start: 1988
+      end: 2309
+    imgnum: 10
+    reference: I1KG240530010.jpg
+  bcf2e7ba3df443528b29dd9c22de6603:
+    span:
+      start: 2310
+      end: 2645
+    imgnum: 11
+    reference: I1KG240530011.jpg
+  ab57194a2f5547d49ea4e9ba2c4a0604:
+    span:
+      start: 2646
+      end: 2999
+    imgnum: 12
+    reference: I1KG240530012.jpg
+  ad680c1f92ef4597a80a74514b9d6d86:
+    span:
+      start: 3000
+      end: 3348
+    imgnum: 13
+    reference: I1KG240530013.jpg
+  2ee78e233b9840f6bda7be045b3f1ef1:
+    span:
+      start: 3349
+      end: 3684
+    imgnum: 14
+    reference: I1KG240530014.jpg
+  3f19e604ff154a3a9bc623678631ff69:
+    span:
+      start: 3685
+      end: 4038
+    imgnum: 15
+    reference: I1KG240530015.jpg
+  fb71948ed0f24701bec85f419a4108f9:
+    span:
+      start: 4039
+      end: 4383
+    imgnum: 16
+    reference: I1KG240530016.jpg
+  270246a0e851484087613ce3611a9cb8:
+    span:
+      start: 4384
+      end: 4690
+    imgnum: 17
+    reference: I1KG240530017.jpg
+  8b4bf7b1041f4df4a910cc1514ae5c9b:
+    span:
+      start: 4691
+      end: 4747
+    imgnum: 18
+    reference: I1KG240530018.jpg
